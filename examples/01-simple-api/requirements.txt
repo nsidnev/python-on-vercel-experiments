@@ -1,0 +1,7 @@
+# Vercel requires at least one dependency to:
+# 1. Detect this as a Python project
+# 2. Create a Python environment for vercel dev
+# 3. Run the serverless functions
+
+# Minimal dependency for Vercel CLI to work
+python-dotenv>=1.0.0
